@@ -12,6 +12,7 @@ After that event, the ring diameter as whole will change (increase/decrease).
 Run "0608_main.py".
 At the end of the running, the results which show the rings with the dots as myosins appear.
 
+#example
 #Before
 ![B_before0611_20](https://user-images.githubusercontent.com/82998157/134793240-f68663fd-8b77-406e-92a8-82466bc48de6.png)
 
